@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace HelloComposer\App;
 
 class Index
 {

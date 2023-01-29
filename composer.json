@@ -1,5 +1,5 @@
 {
-  "name": "hello/composer",
+  "name": "guocps/hello-composer",
   "require": {
     "monolog/monolog": "3.2.*"
   },

@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'hello/composer',
+        'name' => 'guocps/hello-composer',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'a3f794471169656c021077308bb88451f6ad27f0',
+        'reference' => 'f38adeb09ff5cb79d3aa2120aebf34f46a5f1b79',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'hello/composer' => array(
+        'guocps/hello-composer' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'a3f794471169656c021077308bb88451f6ad27f0',
+            'reference' => 'f38adeb09ff5cb79d3aa2120aebf34f46a5f1b79',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

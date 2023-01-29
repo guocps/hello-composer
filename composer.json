@@ -1,7 +1,7 @@
 {
   "name": "hello/composer",
   "require": {
-    "monolog/monolog": "^3.2.*"
+    "monolog/monolog": "3.2.*"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest"
